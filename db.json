@@ -3,12 +3,12 @@
     {
       "id": 1,
       "name": "Kuldeep",
-      "age" : 30
+      "age": 30
     },
     {
       "id": 2,
       "name": "Bantu",
-      "age" : 26
+      "age": 26
     }
   ]
 }
