@@ -1,0 +1,14 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "Kuldeep",
+      "age": 30
+    },
+    {
+      "id": 2,
+      "name": "Bantu",
+      "age": 26
+    }
+  ]
+}
